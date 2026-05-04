@@ -12,7 +12,7 @@
 - 🔭 I'm currently working on AI/ML projects involving **deep learning, NLP, and data analytics**
 - 🧠 Interested in **multimodal AI, natural language interfaces, and business intelligence**
 - 💡 I love turning raw data into actionable insights and building end-to-end pipelines
-- 🎯 GPA: **8.53 / 10**
+
 
 ---
 
